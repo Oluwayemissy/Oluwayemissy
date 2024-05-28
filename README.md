@@ -1,4 +1,3 @@
-# oluwayemisi
 <h1 align="center">Hi 👋, I'm Oluwayemisi</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
